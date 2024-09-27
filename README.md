@@ -1,4 +1,4 @@
-# C/C++ Programming Repository
+# C++ Programming Repository
 
 ![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -22,7 +22,7 @@ Welcome to my C/C++ Programming Repository! This repository features a collectio
 
 ## Features
 
-- A wide range of C and C++ programs
+- A wide range of C++ programs
 - Code examples with detailed explanations
 - Projects covering various algorithms and data structures
 - Organized structure for easy navigation
