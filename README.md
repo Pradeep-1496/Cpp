@@ -1,7 +1,6 @@
 # C++ Programming Repository
 
-![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub issues](https://img.shields.io/github/issues/pradeep-1496/Cpp)
 ![GitHub forks](https://img.shields.io/github/forks/pradeep-1496/Cpp)
 ![GitHub stars](https://img.shields.io/github/stars/pradeep-1496/Cpp)
