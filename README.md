@@ -33,4 +33,7 @@ To get started with the code in this repository, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/pradeep-1496/Cpp.git
+
+2. Open directory
+   ```bash
    cd Cpp
